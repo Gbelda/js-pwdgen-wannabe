@@ -1,0 +1,9 @@
+#sensitive{
+    background-color: black;
+    color: black;
+    transition: ease 500ms;
+}
+
+#sensitive:hover{
+    background-color: white;
+}
